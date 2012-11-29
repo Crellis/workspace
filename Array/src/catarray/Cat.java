@@ -1,5 +1,10 @@
 package catarray;
 
+/**
+ * Author: Craig Ellis
+ * Email: craigdavidellis@gmail.com
+ */
+
 public class Cat {
 
 	String name;
